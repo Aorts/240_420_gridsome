@@ -7,8 +7,8 @@
 module.exports = {
   siteName: 'Witcher',
   siteDescription: "Witcher series that you need to know it",
-  siteUrl: 'https://<your-github-username>.github.io',
-  pathPrefix: '/<your-gridsome-repo-name>',
+  siteUrl: 'https://Aorst.github.io',
+  pathPrefix: '/240_420_gridsome',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
