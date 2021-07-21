@@ -7,7 +7,7 @@
     "explore": "gridsome explore",
     "prod": "python3 -m http.server --directory dist/",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
