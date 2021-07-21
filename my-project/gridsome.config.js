@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Witcher',
   siteDescription: "Witcher series that you need to know it",
-  siteUrl: 'https://Aorst.github.io',
+  siteUrl: 'https://Aorts.github.io',
   pathPrefix: '/240_420_gridsome',
   plugins: [
     {

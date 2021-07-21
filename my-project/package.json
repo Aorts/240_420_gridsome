@@ -5,6 +5,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
+    "prod": "python3 -m http.server --directory dist/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
